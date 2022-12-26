@@ -1,0 +1,17 @@
+{
+    "name": "caova/design-pattern-php",
+    "autoload": {
+        "psr-4": {
+            "Caova\\DesignPatternPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caovanson2121231267312",
+            "email": "son1669063793@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
